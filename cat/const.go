@@ -22,8 +22,8 @@ const ( // Declared default values.
 	defaultIp    = "127.0.0.1"
 	defaultIpHex = "7f000001"
 
-	defaultXmlFile = "/data/appdatas/cat/client.xml"
-	defaultLogDir  = "/data/applogs/cat"
+	defaultXmlFile = "./data/appdatas/cat/client.xml"
+	defaultLogDir  = "./data/applogs/cat"
 )
 
 const ( // Declared properties given by the router server.
